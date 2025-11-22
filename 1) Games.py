@@ -1,4 +1,3 @@
-import random
 import numpy as np
 
 def game1():
@@ -85,3 +84,4 @@ def start():
             continue
 
 start()
+
